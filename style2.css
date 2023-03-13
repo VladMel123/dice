@@ -1,0 +1,49 @@
+.kubik1 {
+    background-image: url("Img/kubuk.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 40px;
+    float: left;
+
+}
+.kubik2{
+    background-image: url("Img/кубик2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 40px;
+    float: left;
+}
+.kubik3 {
+    background-image: url("Img/kubik3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 40px;
+    float: left;
+}
+.kubik4 {
+    background-image: url("Img/kubik4.png"); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 40px;
+    float: left;
+}
+.kubik5{
+    background-image: url("Img/5.png");   
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 40px;
+    float: left;
+}
+.kubik6 {
+    background-image: url("Img/kubik6.png");  
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 40px;
+    float: left;
+}
